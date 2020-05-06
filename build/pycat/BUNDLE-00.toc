@@ -1,0 +1,1 @@
+([('pycat', '/Users/yukitsukai/Desktop/pycat/dist/pycat', 'EXECUTABLE')],)
