@@ -7,7 +7,6 @@ This is a rewrite of Netcat, a general-purpose TCP/UDP connection command line t
 ```
 server>python3 pycat.py -lp <対象のポート番号>
 client>python3 pycat.py -c -t <対象のIPアドレス> -p <対象のポート番号>
-
 ```
 ```
 server>python3 pycat.py -lp <port number>
