@@ -8,7 +8,6 @@ It's easy to set up a server and connect to a server.
 ```
 server>python3 pycat.py -lp <対象のポート番号>
 client>python3 pycat.py -c -t <対象のIPアドレス> -p <対象のポート番号>
-
 ```
 ```
 server>python3 pycat.py -lp <port number>
