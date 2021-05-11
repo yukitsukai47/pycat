@@ -1,5 +1,5 @@
 # pycat
-汎用TCP/UDP接続コマンドラインツールNetcatをpythonに書き直したものである。　　
+汎用TCP/UDP接続コマンドラインツールNetcatをpythonに書き直したものです。  
 サーバを立てることや、サーバに接続することが簡単にできます。  
 
 This is a rewrite of Netcat, a general-purpose TCP/UDP connection command line tool, into python.  
